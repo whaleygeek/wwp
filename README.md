@@ -1,14 +1,13 @@
-# wwp
-Wizard's Waterfall Process
+# WWP - Wizard's Waterfall Process
 
-This is a simple waterfall development process. It is broadly aligned with Units 4 and 9 of the
-BTEC Level 3 in ICT from Pearson Education.
+Please use the [Workbook](./Workbook.docx) in order to follow this process.
 
-This is a work in progress, and (ironically) I am executing an agile methodology here to define 
-a waterfall process. If the irony of that is lost on you, don't worry!
+This is a simple waterfall development process. It is broadly aligned with 
+Units 4 and 9 of the
+[BTEC Level 3 in ICT from Pearson Education](https://qualifications.pearson.com/en/qualifications/btec-nationals/information-technology-2016.html).
 
-The process consists of 6 phases, with sub-steps aligned to units 4 and 9, which allows these
-two units to be studied at the same time (as they often are).
+The process consists of 6 phases, with sub-steps aligned to units 4 and 9, 
+which allows these two units to be studied at the same time (as they often are).
 
 ```
 1. DEFINE
@@ -46,4 +45,10 @@ two units to be studied at the same time (as they often are).
 4C5 Behaviours (methods used throughout development)
 9D1 Post Mortem (of entire project)
 ```
+
+David Whale
+
+@whaleygeek
+
+28th March 2021
 
